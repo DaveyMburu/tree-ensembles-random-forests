@@ -12,6 +12,8 @@ In this lab you will:
 - Train a random forest model using `scikit-learn`  
 - Access, visualize, and interpret feature importances from an ensemble model 
 
+# Check the index.ipynb file for my working
+
 ## Import data
 
 In this lab, you'll use personal attributes to predict whether people make more than 50k/year.  The dataset was extracted from the census bureau database. The goal is to use this dataset to try and draw conclusions regarding what drives salaries. More specifically, the target variable is categorical (> 50k and <= 50 k). Let's create a classification tree!
